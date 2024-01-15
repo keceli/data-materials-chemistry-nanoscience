@@ -15,7 +15,7 @@
 
 ### Papers
 * What indeed can GPT models do in chemistry? A comprehensive benchmark on eight tasks [link](https://arxiv.org/abs/2305.18365)
-* Do Large Language Models Understand Chemistry? A Conversation with ChatGPT [link](https://pubs.acs.org/doi/10.1021/acs.jcim.3c002855)
+* Do Large Language Models Understand Chemistry? A Conversation with ChatGPT [link](https://pubs.acs.org/doi/10.1021/acs.jcim.3c00285)
 * ChemCrow: Augmenting large-language models with chemistry tools [link](https://arxiv.org/abs/2304.05376)
 * ChatGPT Chemistry Assistant for Text Mining and the Prediction of MOF Synthesis [link](https://pubs.acs.org/doi/10.1021/jacs.3c05819)
 * MolGPT: Molecular Generation Using a Transformer-Decoder Model [link](https://pubs.acs.org/doi/10.1021/acs.jcim.1c00600)
